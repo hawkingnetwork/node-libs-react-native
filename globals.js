@@ -1,11 +1,11 @@
-global.Buffer = require('buffer').Buffer;
-global.process = require('process');
-global.EventSource = require('eventsource');
+global.Buffer = require("buffer").Buffer;
+global.process = require("process");
 
 // Needed so that 'stream-http' chooses the right default protocol.
 global.location = {
-  protocol: 'file:',
+  protocol: "file:"
 };
 
 // Some modules expect userAgent to be a string
-global.navigator.userAgent = 'React Native';
+global.navigator.userAgent = "React Native";
+global.EventSource = require("eventsource");

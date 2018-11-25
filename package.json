@@ -8,6 +8,7 @@
     "url": "git+https://github.com/parshap/node-libs-react-native.git"
   },
   "dependencies": {
+    "@tradle/react-native-http": "^2.0.1",
     "assert": "^1.4.1",
     "browserify-zlib": "^0.2.0",
     "buffer": "^5.0.6",
@@ -25,7 +26,6 @@
     "react-native-event-source": "^1.0.1",
     "react-native-randombytes": "^3.5.1",
     "readable-stream": "^2.2.9",
-    "stream-http": "^2.3.1",
     "string_decoder": "^1.0.3",
     "timers-browserify": "^2.0.2",
     "tty-browserify": "0.0.0",
