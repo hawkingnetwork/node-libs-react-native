@@ -25,7 +25,7 @@
     "react-native-crypto": "^2.0.1",
     "react-native-event-source": "^1.0.1",
     "react-native-randombytes": "^3.5.1",
-    "readable-stream": "1.0.33",
+    "stream-browserify": "^1.0.0",
     "string_decoder": "~0.10.25",
     "timers-browserify": "^1.0.1",
     "tty-browserify": "0.0.0",
