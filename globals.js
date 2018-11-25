@@ -1,5 +1,6 @@
 global.Buffer = require('buffer').Buffer;
 global.process = require('process');
+global.EventSource = require('eventsource');
 
 // Needed so that 'stream-http' chooses the right default protocol.
 global.location = {
