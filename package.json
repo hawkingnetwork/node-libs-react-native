@@ -1,6 +1,6 @@
 {
   "name": "@hawkingnetwork/node-libs-react-native",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Tobias Koppers @sokra",
   "description": "Node core modules for React Native. This repository is based on https://github.com/parshap/node-libs-react-native and did some change libs to adapt RN eventsource",
   "repository": {
