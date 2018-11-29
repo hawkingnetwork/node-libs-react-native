@@ -1,6 +1,6 @@
 {
   "name": "@hawkingnetwork/node-libs-react-native",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Tobias Koppers @sokra",
   "description": "Node core modules for React Native. This repository is based on https://github.com/parshap/node-libs-react-native and did some change libs to adapt RN eventsource",
   "repository": {
@@ -8,6 +8,7 @@
     "url": "git+https://github.com/hawkingnetwork/node-libs-react-native.git"
   },
   "dependencies": {
+    "@staltz/react-native-tcp": "^3.3.1",
     "@tradle/react-native-http": "^2.0.0",
     "assert": "^1.1.1",
     "browserify-zlib": "^0.2.0",
@@ -24,9 +25,7 @@
     "querystring-es3": "^0.2.0",
     "react-native-crypto": "^2.0.1",
     "react-native-event-source": "^1.0.1",
-    "react-native-level-fs": "^3.0.1",
     "react-native-randombytes": "^3.5.1",
-    "react-native-tcp": "^3.3.0",
     "readable-stream": "^3.0.6",
     "stream-browserify": "^2.0.1",
     "string_decoder": "^1.1.1",
