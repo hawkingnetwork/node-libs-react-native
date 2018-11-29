@@ -8,7 +8,7 @@
     "url": "git+https://github.com/hawkingnetwork/node-libs-react-native.git"
   },
   "dependencies": {
-    "@staltz/react-native-tcp": "^3.3.1",
+    "@hawkingnetwork/react-native-tcp": "^3.3.2",
     "@tradle/react-native-http": "^2.0.0",
     "assert": "^1.1.1",
     "browserify-zlib": "^0.2.0",
